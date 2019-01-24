@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Places</string>
+    <string name="tv1">Select Place Type</string>
+    <string name="spinnervalue">Default</string>
+    <string name="getplaces">Get Places</string>
+    <string name="lati">Latitude</string>
+    <string name="longi">Longitude</string>
+
+    <string-array name="places">
+        <item></item>
+    </string-array>
+</resources>
